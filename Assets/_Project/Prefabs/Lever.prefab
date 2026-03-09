@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4138610400826882069}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Pivot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 4518091364582616201}
   - component: {fileID: 1289546820120543447}
   - component: {fileID: 248377562055904848}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Rod
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,7 +149,7 @@ GameObject:
   - component: {fileID: 1713261400276684670}
   - component: {fileID: 82475598365981137}
   - component: {fileID: 362558419238528406}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,7 +255,7 @@ GameObject:
   - component: {fileID: 8388510248185398170}
   - component: {fileID: 5144517617995688174}
   - component: {fileID: 2196274083777712900}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Lever
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -336,6 +336,7 @@ MonoBehaviour:
   onLeverPull:
     m_PersistentCalls:
       m_Calls: []
+  _pressIcon: {fileID: 0}
 --- !u!54 &2196274083777712900
 Rigidbody:
   m_ObjectHideFlags: 0
